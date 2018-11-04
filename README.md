@@ -13,5 +13,5 @@ USER INSTRUCTIONS:
 To start the program, right-click on the class labelled "UNiDAYSDiscountingChallenge" which will create an object. 
 The user then right clicks on this object and selects the function named "addToBasket" and they will then be given
 a prompt to insert their choice in the format "X" where X is their choice. Once they have added all these items to
-their basket, they should click the calculate function and it will display the total on the screen in the terminal
+their basket, they should click the "calculate" function and it will display the total on the screen in the terminal
 which includes their delivery charge.
